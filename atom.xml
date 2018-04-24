@@ -2,15 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>lovincode&#39;s Blog</title>
   
-  
+  <subtitle>To strive, to seek, to find, and not to yield.</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="http://lovincode.github.io/"/>
   <updated>2018-04-23T03:02:52.892Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>http://lovincode.github.io/</id>
   
   <author>
-    <name>lovincode</name>
+    <name>lovincode &lt;huonefl@163.com&gt;</name>
     
   </author>
   
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2018/04/23/helloworld/"/>
-    <id>http://yoursite.com/2018/04/23/helloworld/</id>
+    <link href="http://lovincode.github.io/2018/04/23/helloworld/"/>
+    <id>http://lovincode.github.io/2018/04/23/helloworld/</id>
     <published>2018-04-23T03:02:52.892Z</published>
     <updated>2018-04-23T03:02:52.892Z</updated>
     
